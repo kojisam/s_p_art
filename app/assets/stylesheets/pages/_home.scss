@@ -4,5 +4,11 @@ h1, p {
 }
 
 #mainimage {
-  justify-content: center;
+  width: 850px;
+  justify-content: left;
+}
+
+#secondaryleft {
+  width: 850px;
+  justify-content: right;
 }
